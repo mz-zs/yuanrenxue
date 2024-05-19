@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "btoa-atob": "^0.1.2",
+    "crypto-js": "^4.2.0"
+  }
+}

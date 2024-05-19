@@ -1,0 +1,1 @@
+RegExp = catvm.proxy(RegExp)
